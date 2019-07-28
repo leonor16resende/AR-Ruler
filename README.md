@@ -1,5 +1,6 @@
-<img align="right" width="100" height="100" src="/AR Ruler/Assets.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png">
 # AR-Ruler
+
+<img align="right" width="100" height="100" src="/AR Ruler/Assets.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png">
 This project was done in the iOS 11 & Swift 4: The Complete iOS development bootcamp.
 
 ## What is it?
